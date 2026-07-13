@@ -1,0 +1,61 @@
+Notes/
+│
+├── Computer_science
+│   ├── Operating-Systems/
+│   ├── DBMS/
+│   ├── Computer-Networks/
+│   ├── OOP/
+│   └── Software-Engineering/
+│
+├── Programming/
+│   ├── Python/
+│   ├── C++/
+│   ├── Java/
+│   └── SQL/
+│
+├── Mathematics/
+│   ├── Linear-Algebra/
+│   ├── Calculus/
+│   ├── Probability/
+│   └── Statistics/
+│
+├── AI-ML/
+│   ├── Machine-Learning/
+│   ├── Deep-Learning/
+│   ├── NLP/
+│   ├── Transformers/
+│   ├── LLMs/
+│   └── Reinforcement-Learning/
+│
+├──Courses/
+|  ├──NPTEL
+|  ├──Stanford CME 295
+|  ├──Deeplearning.AI
+|  ├──Linked.in 
+|  ├──CS50x
+|  
+├── MLOps/
+│   ├── Docker/
+│   ├── Kubernetes/
+│   ├── MLflow/
+│   ├── DVC/
+│   ├── CI-CD/
+│   └── AWS/
+│
+├── Data-Science/
+│
+├── DevOps/
+│
+├── Cloud/
+│   ├── AWS/
+│   ├── Azure/
+│   └── GCP/
+│
+├── Interview-Preparation/
+│
+├── College/
+│   ├── Semester-4/
+│   ├── Semester-5/
+│   └── Semester-6/
+│
+└── Miscellaneous/
